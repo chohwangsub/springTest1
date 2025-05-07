@@ -1,0 +1,21 @@
+html - css    - layout.css
+     - images
+     - board  - boardList.html
+              - boardWrite.html
+     - member - memberAgree.html
+              - memberWrite.html
+              - login.html
+     - main   - main.html
+     - friend - friendIndex.html
+              -
+
+
+                  게시판 목록
+----------------------------------------------
+번호        제목        이름       날짜      조회수
+----------------------------------------------  
+ 2      abc           김철수   2023-11-30  1202
+ 1      test111       홍길동   2023-11-27  1125
+----------------------------------------------  
+                    [1][2][3]      
+                                     [글쓰기]
